@@ -1,4 +1,4 @@
-''' Cannon game: First Assignment 1 for Scientific Computing at Roskilde University
+''' Cannon game: Roskilde University
 
  Program functionality description:
 
@@ -12,13 +12,8 @@
      it is repositioned to the center of the cannon and refired. The game allows for 5 rounds, alternating
      turns between the two players, and incorporates random wind effects to influence the projectile's trajectory.
 
-Program controls:
-    Press Esc to quit,
-          g to show/hide grid
 
   Authors: Maja H Kirkeby, Ulf R. Pedersen & Juan Lovotti
-
-  !!! Remember to update the program description for your version !!!
 
 '''
 
