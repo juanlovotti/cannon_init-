@@ -16,7 +16,7 @@ Program controls:
     Press Esc to quit,
           g to show/hide grid
 
-  Authors: Maja H Kirkeby & Ulf R. Pedersen
+  Authors: Maja H Kirkeby, Ulf R. Pedersen & Juan Lovotti
 
   !!! Remember to update the program description for your version !!!
 
